@@ -9,9 +9,7 @@ In addition you get the benefits of push-style notifications always in your pock
 As always with solutions like these, we kindly remind you not to print unattended, and always to take all necessary precautions against fire hazards.
 
 
-## Features and Installation:
-
-Please check out our [wiki](https://github.com/nlef/moonraker-telegram-bot/wiki) for installation instructions and detailed feature descriptions.
+## Features and Installation
 
 ## Issues and bug reports
 
@@ -28,36 +26,3 @@ When writing issues/contacting for support please attach the 'telegram.log' as w
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=KCKKK5WLXNEFE)
 
 
-
-
-
----
-
-**Klipper** by [KevinOConnor](https://github.com/KevinOConnor) :
-
-https://github.com/KevinOConnor/klipper
-
----
-**Moonraker** by [Arksine](https://github.com/Arksine) :
-
-https://github.com/Arksine/moonraker
-
----
-
-**KIAUH - Klipper Installation And Update Helper** by [th33xitus](https://github.com/th33xitus) :
-
-https://github.com/th33xitus/KIAUH
-
----
-
-**Mainsail Webinterface** by [meteyou](https://github.com/meteyou) :
-
-https://github.com/meteyou/mainsail
-
----
-
-**Fluidd Webinterface** by [cadriel](https://github.com/cadriel) :
-
-https://github.com/cadriel/fluidd
-
----
